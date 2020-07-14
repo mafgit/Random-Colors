@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: 400;
+    font-family: Calibri;
+}
+
+body {
+    overflow: hidden;
+}
+
+
+#headings, .copied, button {
+    background-color: #fff;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#history {
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: rgb(47, 190, 28);
+    color: #fff;
+    font-size: 20px;
+}
+.copied {
+    font-size: 20px;
+}
+
+.copied {
+    background-color: seagreen;
+    color: #fff;
+}
+
+#main {
+    height:100vh;
+    background-color:#fff;
+}
+
+.histcolor {
+    width: 25px;
+    height: 25px;
+}
+
+.histcolors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.histcolors {
+    cursor: pointer;
+    padding: 15px;
+}
+.histcolors:hover {
+    background-color: #1c1c1c;
+    color: #fff;
+}
+
+.histcolor {
+    margin: 0 10px;
+}
