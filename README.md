@@ -1,3 +1,5 @@
 # Random-Colors
-You can pick colors for your websites from here.
-<h3>Made using HTML, CSS, JAVASCRIPT and JQUERY</h3>
+- You can pick colors for your websites from here.
+- Made using HTML, CSS, JAVASCRIPT and JQUERY
+# Overview
+![alt text](https://dl.dropbox.com/s/xanbtqh4oxmcyta/random.PNG?dl=0)
