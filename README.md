@@ -1,3 +1,4 @@
+> https://mafrandomcolor.netlify.app/
 # Random-Colors
 - You can pick colors for your websites from here.
 - Made using HTML, CSS, JAVASCRIPT and JQUERY
